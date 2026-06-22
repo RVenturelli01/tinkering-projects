@@ -28,7 +28,7 @@ Simulated gambling platform built during high school. Includes SuperEnalotto, lo
 Arduino RC car controlled wirelessly via Bluetooth. Built from scratch with custom chassis and motor driver circuit.
 
 <table><tr>
-<td><video src="https://github.com/user-attachments/assets/f4042be6-39e4-40b4-8c3b-aa6d47d24765" height="450" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/f4042be6-39e4-40b4-8c3b-aa6d47d24765" height="552" controls></video></td>
 <td><img src="remote-controlled-car/media/image.png" width="400"/></td>
 </tr></table>
 
