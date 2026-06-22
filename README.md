@@ -19,7 +19,16 @@ A collection of personal projects built for fun — from high school to universi
 
 Simulated gambling platform built during high school. Includes SuperEnalotto, lotteries, horse racing, and roulette — all with vanilla JS animations and a live leaderboard.
 
-![Login](lucky-bet/screenshots/login.png)
+<table>
+<tr>
+<td><img src="lucky-bet/screenshots/login.png" width="300"/></td>
+<td><img src="lucky-bet/screenshots/lotteria_40_numeri.png" width="300"/></td>
+</tr>
+<tr>
+<td><img src="lucky-bet/screenshots/cavalli.png" width="300"/></td>
+<td><img src="lucky-bet/screenshots/roulette.png" width="300"/></td>
+</tr>
+</table>
 
 ---
 
