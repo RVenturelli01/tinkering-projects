@@ -19,14 +19,14 @@ A collection of personal projects built for fun — from high school to universi
 
 Simulated gambling platform built during high school. Includes SuperEnalotto, lotteries, horse racing, and roulette — all with vanilla JS animations and a live leaderboard.
 
-<table>
+<table width="100%">
 <tr>
-<td><img src="lucky-bet/screenshots/login.png" width="300"/></td>
-<td><img src="lucky-bet/screenshots/lotteria_40_numeri.png" width="300"/></td>
+<td width="50%"><img src="lucky-bet/screenshots/login.png" width="100%"/></td>
+<td width="50%"><img src="lucky-bet/screenshots/lotteria_40_numeri.png" width="100%"/></td>
 </tr>
 <tr>
-<td><img src="lucky-bet/screenshots/cavalli.png" width="300"/></td>
-<td><img src="lucky-bet/screenshots/roulette.png" width="300"/></td>
+<td width="50%"><img src="lucky-bet/screenshots/cavalli.png" width="100%"/></td>
+<td width="50%"><img src="lucky-bet/screenshots/roulette.png" width="100%"/></td>
 </tr>
 </table>
 
@@ -36,9 +36,9 @@ Simulated gambling platform built during high school. Includes SuperEnalotto, lo
 
 Arduino RC car controlled wirelessly via Bluetooth. Built from scratch with custom chassis and motor driver circuit.
 
-<table><tr>
-<td><video src="https://github.com/user-attachments/assets/f4042be6-39e4-40b4-8c3b-aa6d47d24765" height="552" controls></video></td>
-<td><img src="remote-controlled-car/media/image.png" width="400"/></td>
+<table width="100%"><tr>
+<td width="40%"><video src="https://github.com/user-attachments/assets/f4042be6-39e4-40b4-8c3b-aa6d47d24765" width="100%" controls></video></td>
+<td width="60%"><img src="remote-controlled-car/media/image.png" width="100%"/></td>
 </tr></table>
 
 ---
