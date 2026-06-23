@@ -35,11 +35,12 @@ A magnet is fixed to the outer edge of the fan. As the arm spins, a magnetic sen
 
 ### Videos
 
-<video src="https://github.com/user-attachments/assets/432f06eb-4107-4fc7-974f-8471f5fd37e3" controls width="100%"></video>
-
-<video src="https://github.com/user-attachments/assets/d3bceb16-1f6b-45a3-9732-16acfa5aa507" controls width="100%"></video>
-
 <video src="https://github.com/user-attachments/assets/3df0f057-1ebc-47fe-a092-3163ada60823" controls width="100%"></video>
+
+<table width="100%"><tr>
+<td width="50%"><video src="https://github.com/user-attachments/assets/432f06eb-4107-4fc7-974f-8471f5fd37e3" controls width="100%"></video></td>
+<td width="50%"><video src="https://github.com/user-attachments/assets/d3bceb16-1f6b-45a3-9732-16acfa5aa507" controls width="100%"></video></td>
+</tr></table>
 
 ---
 
@@ -49,12 +50,12 @@ Single LEDs replaced by an addressable LED strip: more colors and higher pixel d
 
 ### Results
 
-<table width="100%">
-<tr>
-<td width="33%"><img src="media/cuore.jpg" width="100%"/></td>
-<td width="33%"><img src="media/random.jpg" width="100%"/></td>
-<td width="34%"><img src="media/stella.jpg" width="100%"/></td>
-</tr>
-</table>
+<table width="100%"><tr>
+<td width="50%"><video src="https://github.com/user-attachments/assets/86bb3cb2-a7fc-43dd-87a4-443ccb2908f9" controls width="100%"></video></td>
+<td width="50%"><img src="media/cuore.jpg" width="100%"/></td>
+</tr></table>
 
-<video src="https://github.com/user-attachments/assets/86bb3cb2-a7fc-43dd-87a4-443ccb2908f9" controls width="100%"></video>
+<table width="100%"><tr>
+<td width="50%"><img src="media/random.jpg" width="100%"/></td>
+<td width="50%"><img src="media/stella.jpg" width="100%"/></td>
+</tr></table>
