@@ -35,11 +35,11 @@ A magnet is fixed to the outer edge of the fan. As the arm spins, a magnetic sen
 
 ### Videos
 
-https://github.com/user-attachments/assets/432f06eb-4107-4fc7-974f-8471f5fd37e3
+<video src="https://github.com/user-attachments/assets/432f06eb-4107-4fc7-974f-8471f5fd37e3" controls width="100%"></video>
 
-https://github.com/user-attachments/assets/d3bceb16-1f6b-45a3-9732-16acfa5aa507
+<video src="https://github.com/user-attachments/assets/d3bceb16-1f6b-45a3-9732-16acfa5aa507" controls width="100%"></video>
 
-https://github.com/user-attachments/assets/3df0f057-1ebc-47fe-a092-3163ada60823
+<video src="https://github.com/user-attachments/assets/3df0f057-1ebc-47fe-a092-3163ada60823" controls width="100%"></video>
 
 ---
 
@@ -57,4 +57,4 @@ Single LEDs replaced by an addressable LED strip: more colors and higher pixel d
 </tr>
 </table>
 
-https://github.com/user-attachments/assets/86bb3cb2-a7fc-43dd-87a4-443ccb2908f9
+<video src="https://github.com/user-attachments/assets/86bb3cb2-a7fc-43dd-87a4-443ccb2908f9" controls width="100%"></video>

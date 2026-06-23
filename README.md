@@ -47,7 +47,7 @@ Arduino RC car controlled wirelessly via Bluetooth. Built from scratch with cust
 
 Arduino-powered robotic arm.
 
-https://github.com/user-attachments/assets/9e0cf2b5-24aa-4144-a9ce-b4ff6f31acab
+<video src="https://github.com/user-attachments/assets/9e0cf2b5-24aa-4144-a9ce-b4ff6f31acab" controls width="100%"></video>
 
 ---
 

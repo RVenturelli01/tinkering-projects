@@ -15,7 +15,7 @@ Basic chassis controlled via infrared remote.
 </tr>
 </table>
 
-https://github.com/user-attachments/assets/a60181ae-a6d6-4898-be1b-ee991b8141fe
+<video src="https://github.com/user-attachments/assets/a60181ae-a6d6-4898-be1b-ee991b8141fe" controls width="100%"></video>
 
 ---
 
@@ -49,4 +49,4 @@ Replaced IR with Bluetooth communication. The controller is a custom board held 
 
 Autonomous mode using ultrasonic sensors to detect and avoid obstacles.
 
-https://github.com/user-attachments/assets/458d0580-341d-41ef-afeb-affbd2050c26
+<video src="https://github.com/user-attachments/assets/458d0580-341d-41ef-afeb-affbd2050c26" controls width="100%"></video>
